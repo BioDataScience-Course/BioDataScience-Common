@@ -1,3 +1,3 @@
 # BioDataScience-Common
 
-Common repository for all students in Biological Data Science at UMONS
+Dépôt commun à tous les étudiants des cours de Science des Données Biologiques à l'UMONS.
