@@ -28,7 +28,7 @@ Ce cours se divise en 12 modules :
 - Test Chi carré, proportions et corrélation
 - Intervalle de confiance, test de Student, test de Wilcoxon
 - Analyse de variance
-- Corrélation et critique statistique
+- Corrélation et critiques statistiques
 
 Le support du cours est disponible via le lien <https://wp.sciviews.org/>.
 
@@ -63,11 +63,11 @@ Vous pouvez également nous contacter par mail à l'adresse <sdd@sciviews.org>. 
 
 - un ordinateur 
 - des écouteurs 
-- un cable ethernet (avec adaptateur si nécéssaire pour le connecter sur votre ordinateur.)
+- un câble Ethernet (avec adaptateur si nécessaire pour le connecter sur votre ordinateur.)
 
-L'ordinateur portable doit être sous Windows 8.1 ou 10 64bit, MacOS mis-à-jour vers l’une des dernières versions supportées Mojave, Catalina ou Big Sur (seuls les Macs avec processeur Intel) ou Linux 64bit récent. Ce dernier doit être assez puissant que pour exécuter les logiciels. [Novebench](https://novabench.com/) vous permet de le tester. Il faut que vous obteniez au moins 800 au score global, 400 au score processeur (CPU), 150 au score de la mémoire vive (RAM) et au score de la carte graphique (GPU), et 75 au score disque pour un travail confortable. Les PCs équipés de processeurs trop lents ou de moins de 8Go de mémoire vive ne conviennent pas. Il faut aussi 25 à 30Go de libre minimum sur le disque dur système principal (le C: sous Windows), et un accès administrateur sur l’ordinateur pour pouvoir installer les logiciels. Les cours en présentiel sont données dans des salles informatiques avec un nombre limité d'ordinateur.
+L'ordinateur portable doit être sous Windows 8.1 ou 10 64bit, MacOS mis à jour vers l’une des dernières versions supportées Mojave, Catalina ou Big Sur (seuls les Macs avec processeur Intel) ou Linux 64bit récent. Ce dernier doit être assez puissant que pour exécuter les logiciels. [Novebench](https://novabench.com/) vous permet de le tester. Il faut que vous obteniez au moins 800 au score global, 400 au score processeur (CPU), 150 au score de la mémoire vive (RAM) et au score de la carte graphique (GPU), et 75 au score disque pour un travail confortable. Les PCs équipés de processeurs trop lents ou de moins de 8Go de mémoire vive ne conviennent pas. Il faut aussi 25 à 30Go de libre minimum sur le disque dur système principal (le C: sous Windows), et un accès administrateur sur l’ordinateur pour pouvoir installer les logiciels. Les cours en présentiel sont données dans des salles informatiques avec un nombre limité d'ordinateurs.
 
-Vous recevrez également une clé usb avec les logiciels à installer pour ce cours. Cette clé sera utilisée pour tous les cours de science des données biologique (bab2 à MA2).
+Vous recevrez également une clé USB avec les logiciels à installer pour ce cours. Cette clé sera utilisée pour tous les cours de science des données biologiques (bab2 à MA2).
 
 ## Fiche ECTS
 
@@ -75,11 +75,11 @@ La fiche ECTS reprend toutes les informations essentielles sur un cours. Vous po
 
 ## Protection de la vie privée
 
-L'ensemble des informations personnelles collectées dans le cadre de ce cours sont conforme avec le [RGPD](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0679). Vous pouvez consulter la section relative à la protection de la vie privée sur la page <https://wp.sciviews.org/politique-de-confidentialite/>.
+L'ensemble des informations personnelles collectées dans le cadre de ce cours sont conformes avec le [RGPD](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0679). Vous pouvez consulter la section relative à la protection de la vie privée sur la page <https://wp.sciviews.org/politique-de-confidentialite/>.
 
 ## Entraide versus plagiat 
 
-L'entraide entre les étudiants est encouragé. Le plagiat est qu'en à lui totalement **interdit**. La définition du plagiat et les sanctions encourue à l'UMONS sont présentés vie le lien suivant <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx>.
+L'entraide entre les étudiants est encouragée. Le plagiat est qu'en à lui totalement **interdit**. La définition du plagiat et les sanctions encourues à l'UMONS sont présentées via le lien suivant <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx>.
 
 ## Ressources
 
