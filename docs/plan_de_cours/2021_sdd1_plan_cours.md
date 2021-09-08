@@ -65,7 +65,9 @@ Vous pouvez également nous contacter par mail à l'adresse <sdd@sciviews.org>. 
 - des écouteurs 
 - un câble Ethernet (avec adaptateur si nécessaire pour le connecter sur votre ordinateur.)
 
-L'ordinateur portable doit être sous Windows 8.1 ou 10 64bit, MacOS mis à jour vers l’une des dernières versions supportées Mojave, Catalina ou Big Sur (seuls les Macs avec processeur Intel) ou Linux 64bit récent. Ce dernier doit être assez puissant que pour exécuter les logiciels. [Novebench](https://novabench.com/) vous permet de le tester. Il faut que vous obteniez au moins 800 au score global, 400 au score processeur (CPU), 150 au score de la mémoire vive (RAM) et au score de la carte graphique (GPU), et 75 au score disque pour un travail confortable. Les PCs équipés de processeurs trop lents ou de moins de 8Go de mémoire vive ne conviennent pas. Il faut aussi 25 à 30Go de libre minimum sur le disque dur système principal (le C: sous Windows), et un accès administrateur sur l’ordinateur pour pouvoir installer les logiciels. Les cours en présentiel sont données dans des salles informatiques avec un nombre limité d'ordinateurs.
+L'ordinateur portable doit être sous Windows 8.1 ou 10 64bit, MacOS mis à jour vers l’une des dernières versions supportées Mojave, Catalina ou Big Sur (seuls les Macs avec processeur Intel) ou Linux 64bit récent. Ce dernier doit être assez puissant que pour exécuter les logiciels. [Novebench](https://novabench.com/) vous permet de le tester. Il faut que vous obteniez au moins 800 au score global, 400 au score processeur (CPU), 150 au score de la mémoire vive (RAM) et au score de la carte graphique (GPU), et 75 au score disque pour un travail confortable. Les PCs équipés de processeurs trop lents ou de moins de 8Go de mémoire vive ne conviennent pas. Il faut aussi 25 à 30Go de libre minimum sur le disque dur système principal (le C: sous Windows), et un accès administrateur sur l’ordinateur pour pouvoir installer les logiciels. Les cours en présentiel sont données dans des salles informatiques. Vous devez impérativement respecter la [charte informatique de l'UMONS](https://alumniumonsac.sharepoint.com/:w:/r/sites/DirectiondesServicesInformatiques/_layouts/15/Doc.aspx?sourcedoc=%7B31695CB2-B243-456B-A410-158CFF892858%7D&file=%5BFR%5D%20Charte%20Informatique%20UMONS.docx&action=default&mobileredirect=true).
+
+Pour les étudiants ne disposant pas d'un ordinateur avec les caractéristiques précisées ci-dessus, un nombre limité d'ordinateurs sont disponibles en salle informatique.
 
 Vous recevrez également une clé USB avec les logiciels à installer pour ce cours. Cette clé sera utilisée pour tous les cours de science des données biologiques (bab2 à MA2).
 
@@ -79,7 +81,7 @@ L'ensemble des informations personnelles collectées dans le cadre de ce cours s
 
 ## Entraide versus plagiat 
 
-L'entraide entre les étudiants est encouragée. Le plagiat est qu'en à lui totalement **interdit**. La définition du plagiat et les sanctions encourues à l'UMONS sont présentées via le lien suivant <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx>.
+L'entraide entre les étudiants est encouragée. Le [plagiat](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx) est qu'en à lui totalement **interdit** et sévèrement puni à l'UMONS. La définition du plagiat doit être claire pour vous.
 
 ## Ressources
 
@@ -89,4 +91,6 @@ L'entraide entre les étudiants est encouragée. Le plagiat est qu'en à lui tot
   - Science des données I : visualisation  <https://moodle.umons.ac.be/enrol/index.php?id=1387>
   - Science des données I : Inference <....>
 - Fiche ects du cours : <http://applications.umons.ac.be/web/fr/pde/2021-2022/ue/US-B2-SCBIOL-006-M.htm>
-- [Je ne plagie pas ... enfin, je pense](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat.aspx)
+- [Définition du plagiat et les sanction à l'umons](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx)
+- Je ne plagie pas ... enfin, je pense <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat.aspx> 
+- Charte informatique de l'UMONS <https://alumniumonsac.sharepoint.com/:w:/r/sites/DirectiondesServicesInformatiques/_layouts/15/Doc.aspx?sourcedoc=%7B31695CB2-B243-456B-A410-158CFF892858%7D&file=%5BFR%5D%20Charte%20Informatique%20UMONS.docx&action=default&mobileredirect=true>
