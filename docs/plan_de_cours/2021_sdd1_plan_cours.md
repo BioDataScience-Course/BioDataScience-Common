@@ -89,7 +89,7 @@ L'entraide entre les étudiants est encouragée. Le [plagiat](https://alumniumon
 - horaire des cours <https://hplanning2021.umons.ac.be/invite>
 - Ressource moodle :
   - Science des données I : visualisation  <https://moodle.umons.ac.be/enrol/index.php?id=1387>
-  - Science des données I : Inference <....>
+  - Science des données I : Inference <https://moodle.umons.ac.be/course/view.php?id=3385>
 - Fiche ects du cours : <http://applications.umons.ac.be/web/fr/pde/2021-2022/ue/US-B2-SCBIOL-006-M.htm>
 - [Définition du plagiat et les sanction à l'umons](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx)
 - Je ne plagie pas ... enfin, je pense <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat.aspx> 
