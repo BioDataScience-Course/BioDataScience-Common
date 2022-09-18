@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 # Plan de cours : Science des données I : visualisation et inférence
 
 ## Année académique 2022-2023
@@ -5,16 +11,13 @@
 ## Enseignants
 
 -   Enseignant : Philippe Grosjean, [philippe.grosjean\@umons.ac.be](mailto:philippe.grosjean@umons.ac.be){.email}
--   Assistant : Guyliann Engels, [guyliann.engels\@umons.ac.be](mailto:guyliann.engels@umons.ac.be){.email}
--   Assistant pédagogique : Jordan Benrezkallah, [Jordan.BENREZKALLAH\@umons.ac.be](mailto:Jordan.BENREZKALLAH@umons.ac.be){.email}
--   Elève assistante : Elisabeth Ferier, [Elisabeth.Ferier\@student.umons.ac.be](mailto:Elisabeth.Ferier@student.umons.ac.be){.email}
--   Elève assistante : Anne-Charlotte Vranck, [Anne-Charlotte.VRANCKX\@student.umons.ac.be](mailto:Anne-Charlotte.VRANCKX@student.umons.ac.be){.email}
+-   Assistants : Guyliann Engels, [guyliann.engels\@umons.ac.be](mailto:guyliann.engels@umons.ac.be){.email} & Jordan Benrezkallah, [jordan.benrezkallah\@umons.ac.be](mailto:jordan.benrezkallah@umons.ac.be){.email}
 
 ## Présentation du cours
 
 La science des données s'intéresse à l'analyse des données sous toutes ses formes. Cette discipline requiert des compétences en informatiques, en mathématiques et dans le domaine d'expertise. La Science fait actuellement face à de nombreux changements suite à l'introduction de l'Open Science, de l'Open Data, de l'augmentation exponentielle des données, ... Les biologistes doivent être capables d'évoluer dans ce contexte grâce à une bonne connaissance de la science des données biologiques.
 
-Ce premier cours s'inscrit dans une formation continue sur 3 années successives. À la fin de ce premier cours, les étudiants seront capables de réaliser des analyses biologiques usuelles et de présenter clairement ses résultats de manière reproductible avec des outils informatiques et statistiques professionnels.
+Ce premier cours s'inscrit dans une formation continue sur trois années successives. À la fin de ce premier cours, les étudiants seront capables de réaliser des analyses biologiques usuelles et de présenter clairement ses résultats de manière reproductible avec des outils informatiques et statistiques professionnels.
 
 La fiche ECTS reprend toutes les informations essentielles : <http://applications.umons.ac.be/web/fr/pde/2022-2023/ue/US-B2-SCBIOL-006-M.htm>
 

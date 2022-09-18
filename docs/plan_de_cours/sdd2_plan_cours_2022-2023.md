@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 # Plan de cours : Science des données II : analyse et modélisation
 
 ## année académique 2022-2023
@@ -5,10 +11,7 @@
 ## Enseignants
 
 -   Enseignant : Philippe Grosjean, [philippe.grosjean\@umons.ac.be](mailto:philippe.grosjean@umons.ac.be){.email}
--   Assistant : Guyliann Engels, [guyliann.engels\@umons.ac.be](mailto:guyliann.engels@umons.ac.be){.email}
--   Assistant pédagogique : Jordan Benrezkallah, [Jordan.BENREZKALLAH\@umons.ac.be](mailto:Jordan.BENREZKALLAH@umons.ac.be){.email}
--   Elève assistante : Elisabeth Ferier, [Elisabeth.Ferier\@student.umons.ac.be](mailto:Elisabeth.Ferier@student.umons.ac.be){.email}
--   Elève assistante : Anne-Charlotte Vranck, [Anne-Charlotte.VRANCKX\@student.umons.ac.be](mailto:Anne-Charlotte.VRANCKX@student.umons.ac.be){.email}
+-   Assistants : Guyliann Engels, [guyliann.engels\@umons.ac.be](mailto:guyliann.engels@umons.ac.be){.email} & Jordan Benrezkallah, [jordan.benrezkallah\@umons.ac.be](mailto:jordan.benrezkallah@umons.ac.be){.email}
 
 ## Présentation du cours
 

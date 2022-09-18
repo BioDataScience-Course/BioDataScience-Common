@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 # Plan de cours : Science des données III : exploration et prédiction
 
 ## année académique 2022-2023
