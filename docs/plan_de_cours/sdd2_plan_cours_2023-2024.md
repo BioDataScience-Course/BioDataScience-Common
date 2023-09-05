@@ -1,14 +1,11 @@
 # Plan de cours : Science des données II : analyse et modélisation
 
-## année académique 2022-2023
+## année académique 2023-2024
 
 ## Enseignants
 
--   Enseignant : Philippe Grosjean, [philippe.grosjean\@umons.ac.be](mailto:philippe.grosjean@umons.ac.be){.email}
--   Assistant : Guyliann Engels, [guyliann.engels\@umons.ac.be](mailto:guyliann.engels@umons.ac.be){.email}
--   Assistant pédagogique : Jordan Benrezkallah, [Jordan.BENREZKALLAH\@umons.ac.be](mailto:Jordan.BENREZKALLAH@umons.ac.be){.email}
--   Elève assistante : Elisabeth Ferier, [Elisabeth.Ferier\@student.umons.ac.be](mailto:Elisabeth.Ferier@student.umons.ac.be){.email}
--   Elève assistante : Anne-Charlotte Vranck, [Anne-Charlotte.VRANCKX\@student.umons.ac.be](mailto:Anne-Charlotte.VRANCKX@student.umons.ac.be){.email}
+-   Enseignant : Philippe Grosjean
+-   Assistant : Guyliann Engels
 
 ## Présentation du cours
 
@@ -16,11 +13,11 @@ La science des données s'intéresse à l'analyse des données sous toutes ses f
 
 Ce second cours s'inscrit dans une formation continue sur trois années successives. À la fin de ce second cours, les étudiants seront capables de modéliser, de produire des analyses multivariées et de présenter clairement leurs résultats de manière reproductible avec des outils informatiques et statistiques professionnels.
 
-La fiche ECTS reprend toutes les informations essentielles : <http://applications.umons.ac.be/web/fr/pde/2022-2023/ue/US-B3-SCBIOL-006-M.htm>
+La fiche ECTS reprend toutes les informations essentielles : <http://applications.umons.ac.be/web/fr/pde/2023-2024/ue/US-B3-SCBIOL-006-M.htm>
 
 ## Organisation
 
-Le cours de [Science des données II : analyse et modélisation](http://applications.umons.ac.be/web/fr/pde/2022-2023/ue/US-B3-SCBIOL-006-M.htm) (UE) est une unité d'enseignement de 5 crédits est divisée en deux activités d'apprentissages (AA) : [Science des données II : modélisation](http://applications.umons.ac.be/web/fr/pde/2022-2023/aa/S-BIOG-015.htm) (Q1) et [Science des données II : analyse](http://applications.umons.ac.be/web/fr/pde/2022-2023/aa/S-BIOG-061.htm) (Q2). Ce cours comprend 10 modules. Chaque module représente une charge moyenne de travail de 13h à 15h dont 6h en présentiel et le reste en travail personnel à domicile. Vous pouvez retrouver à l'horaire les plages en présentiel et le travail à distance est à réaliser entre ces sessions. Toutes les heures en présentiel sont assimilées à des heures de travaux pratiques encadrées avec **présence obligatoire**. Chaque absence doit être justifiée.
+Le cours de [Science des données II : analyse et modélisation](http://applications.umons.ac.be/web/fr/pde/2023-2024/ue/US-B3-SCBIOL-006-M.htm) (UE) est une unité d'enseignement de 5 crédits est divisée en deux activités d'apprentissages (AA) : [Science des données II : modélisation](http://applications.umons.ac.be/web/fr/pde/2023-2024/aa/S-BIOG-015.htm) (Q1) et [Science des données II : analyse](http://applications.umons.ac.be/web/fr/pde/2023-2024/aa/S-BIOG-061.htm) (Q2). Ce cours comprend 10 modules. Chaque module représente une charge moyenne de travail de 12h à 15h dont 6h en présentiel et le reste en travail personnel à domicile. Vous pouvez retrouver à l'horaire les plages en présentiel et le travail à distance est à réaliser entre ces sessions. Toutes les heures en présentiel sont assimilées à des heures de travaux pratiques encadrées avec **présence obligatoire**. Chaque absence doit être justifiée.
 
 ## Modules
 
@@ -34,11 +31,11 @@ Science des données II : modélisation (Q1)
 
 Science des données II : analyse (Q2)
 
--   Base de données I, indices de distances, positionnement multidimensionnel (MDS)
--   Analyse en composantes principales, analyse factorielle des correspondances
--   Base de données II, analyse factorielle multiple
--   Classification hiérarchique et K-moyennes
--   carte auto-adaptatives (SOM) et indices de biodiversité
+- Indices de distances, classification hiérarchique, K-moyennes
+- Analyse en composantes principales et analyse factorielle des correspondances
+- Base de données I et analyse factorielle multiple
+- Base de données II et positionnement multidimensionnel (MDS)
+- Données ouvertes, carte auto-adaptatives (SOM), indices de biodiversité
 
 ## Méthode pédagogique
 
@@ -49,13 +46,22 @@ Ce cours est donné en classe **inversée** avec l'ensemble du matériel pédago
 -   niveau III : transfert de ces notions dans des projets individuels guidés et réalisés sur des données biologiques
 -   niveau IV : réalisation d'analyses libres dans des projets de groupe et sur des données biologiques nouvelles
 
-La plus grande partie de votre temps sera donc consacrée à l'analyse de données biologiques au sein des exercices de niveau III et IV.
+De plus, des challenges pratiques et des interrogations vont être réalisés durant les séances en présentiel. Néanmoins, la plus grande partie de votre temps sera consacrée à l'analyse de données biologiques au sein des exercices de niveau III et IV.
 
 **L'apprentissage nécessite de poser régulièrement des questions.** Le canal privilégié pour ces échanges est un forum de discussion spécialisé (issues GitHub) accessible depuis le site du cours. Vous pouvez également nous contacter par mail à l'adresse [sdd\@sciviews.org](mailto:sdd@sciviews.org){.email}.
 
 ## Évaluation
 
-L'activité dans les différents exercices est enregistrée pour chaque étudiant et est utilisée pour une évaluation continue. Il n'y a pas d'examen en session, ni d'examen en seconde session pour ce cours. La pondération entre les AA du Q1 et du Q2 est de 50/50. Il faut avoir réalisé au minimum 80% des exercices de chaque module pour qu'il soit pris en compte dans l'évaluation. De plus, il faut avoir obtenu au minimum 8/20 à chaque AA, sans quoi la note de l'AA la plus faible est utilisée pour la note finale de l'UE.
+L'activité dans les différents exercices est enregistrée pour chaque étudiant et est utilisée pour une évaluation continue. Il n'y a pas d'examen en session ni d'examen en seconde session pour ce cours. La pondération entre les AA du Q1 et du Q2 est de 50/50. Il faut avoir réalisé au minimum 80% des exercices de chaque module pour qu'il soit pris en compte dans l'évaluation. De plus, il faut avoir obtenu au minimum 8/20 à chaque AA, sans quoi la note de l'AA la plus faible est utilisée pour la note finale de l'UE.
+
+La note de chaque AA est obtenue par addition des composantes suivantes :
+
+- 5% : exercices N1 + N2
+- 5% : projets N3
+- 20% : projets N4
+- 20% : challenge
+- 50% : deux interrogations 
+
 
 ## Équipement requis
 
@@ -84,11 +90,11 @@ L'entraide entre les étudiants est encouragée, mais il faut citer ses sources.
 ## Ressources
 
 -   Site web du cours : <http://bds.sciviews.org/>
--   Horaire des cours : <https://hplanning2022.umons.ac.be/invite>
+-   Horaire des cours : <https://hplanning2023.umons.ac.be/invite>
 -   Ressources Moodle :
     -   Science des données II : modélisation <https://moodle.umons.ac.be/course/view.php?id=1463>
     -   Science des données II : analyse <https://moodle.umons.ac.be/course/view.php?id=3386>
--   Fiche ECTS du cours : <http://applications.umons.ac.be/web/fr/pde/2022-2023/ue/US-B3-SCBIOL-006-M.htm>
+-   Fiche ECTS du cours : <http://applications.umons.ac.be/web/fr/pde/2023-2024/ue/US-B3-SCBIOL-006-M.htm>
 -   Définition du plagiat et les sanctions à l'UMONS : [https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx){.uri}
 -   Je ne plagie pas ... enfin, je pense : <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat.aspx>
 -   Charte informatique de l'UMONS : <https://go.sciviews.org/charte_info>
