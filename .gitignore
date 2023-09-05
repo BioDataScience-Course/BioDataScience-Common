@@ -38,6 +38,3 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# plan_de_cours
-*docs/plan_de_cours/**.pdf
-*docs/plan_de_cours/**.html

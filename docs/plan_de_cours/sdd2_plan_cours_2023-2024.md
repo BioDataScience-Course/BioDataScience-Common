@@ -1,3 +1,7 @@
+---
+output:
+  pdf_document: default
+---
 # Plan de cours : Science des données II : analyse et modélisation
 
 ## année académique 2023-2024
@@ -17,7 +21,7 @@ La fiche ECTS reprend toutes les informations essentielles : <http://application
 
 ## Organisation
 
-Le cours de [Science des données II : analyse et modélisation](http://applications.umons.ac.be/web/fr/pde/2023-2024/ue/US-B3-SCBIOL-006-M.htm) (UE) est une unité d'enseignement de 5 crédits est divisée en deux activités d'apprentissages (AA) : [Science des données II : modélisation](http://applications.umons.ac.be/web/fr/pde/2023-2024/aa/S-BIOG-015.htm) (Q1) et [Science des données II : analyse](http://applications.umons.ac.be/web/fr/pde/2023-2024/aa/S-BIOG-061.htm) (Q2). Ce cours comprend 10 modules. Chaque module représente une charge moyenne de travail de 12h à 15h dont 6h en présentiel et le reste en travail personnel à domicile. Vous pouvez retrouver à l'horaire les plages en présentiel et le travail à distance est à réaliser entre ces sessions. Toutes les heures en présentiel sont assimilées à des heures de travaux pratiques encadrées avec **présence obligatoire**. Chaque absence doit être justifiée.
+Le cours de [Science des données II : analyse et modélisation](http://applications.umons.ac.be/web/fr/pde/2023-2024/ue/US-B3-SCBIOL-006-M.htm) (UE) est une unité d'enseignement (UE) de cinq crédits. Il est divisé en deux activités d'apprentissages (AA) : [Science des données II : modélisation](http://applications.umons.ac.be/web/fr/pde/2023-2024/aa/S-BIOG-015.htm) (Q1) et [Science des données II : analyse](http://applications.umons.ac.be/web/fr/pde/2023-2024/aa/S-BIOG-061.htm) (Q2). Ce cours est constitué de dix modules. Chaque module représente une charge moyenne de travail de 12h à 15h dont 6h en présentiel et le reste en travail personnel à domicile. Vous pouvez retrouver à l'horaire les plages en présentiel. Le travail à distance est à réaliser entre ces sessions. Toutes les heures en présentiel sont assimilées à des heures de travaux pratiques encadrées avec **présence obligatoire**. Chaque absence doit être justifiée.
 
 ## Modules
 
@@ -31,50 +35,53 @@ Science des données II : modélisation (Q1)
 
 Science des données II : analyse (Q2)
 
--   Indices de distances, classification hiérarchique, K-moyennes
+-   Indices de distances, classification hiérarchique, K-moyennes, indices de diversité
 -   Analyse en composantes principales et analyse factorielle des correspondances
 -   Base de données I et analyse factorielle multiple
 -   Base de données II et positionnement multidimensionnel (MDS)
--   Données ouvertes, carte auto-adaptatives (SOM), indices de biodiversité
+-   Données ouvertes et carte auto-adaptatives (SOM)
 
 ## Méthode pédagogique
 
 Ce cours est donné en classe **inversée** avec l'ensemble du matériel pédagogique disponible via le lien <http://bds.sciviews.org/>. Les étudiants seront actifs à chaque étape de l'apprentissage. Chaque module de cours comprend des exercices classés en quatre niveaux de difficulté croissante.
 
--   niveau I : découverte des notions avec des exercices rapides et ciblés intégrés au sein du cours en ligne
--   niveau II : application des notions dans des exercices sous la forme de tutoriel cadré
--   niveau III : transfert de ces notions dans des projets individuels guidés et réalisés sur des données biologiques
--   niveau IV : réalisation d'analyses libres dans des projets de groupe et sur des données biologiques nouvelles
+-   niveau 1 : découverte des notions avec des exercices rapides et ciblés intégrés au sein du cours en ligne
+-   niveau 2 : application des notions dans des exercices sous la forme de tutoriel cadré
+-   niveau 3 : transfert de ces notions dans des projets individuels guidés et réalisés sur des données biologiques
+-   niveau 4 : réalisation d'analyses libres dans des projets de groupe et sur des données biologiques nouvelles
 
-De plus, des challenges pratiques et des interrogations vont être réalisés durant les séances en présentiel. Néanmoins, la plus grande partie de votre temps sera consacrée à l'analyse de données biologiques au sein des exercices de niveau III et IV.
+De plus, des challenges pratiques et des interrogations vont être réalisés durant les séances en présentiel. Néanmoins, la plus grande partie de votre temps sera consacrée à l'analyse de données biologiques au sein des exercices de niveau 3 et 4.
 
-**L'apprentissage nécessite de poser régulièrement des questions.** Le canal privilégié pour ces échanges est un forum de discussion spécialisé (issues GitHub) accessible depuis le site du cours. Vous pouvez également nous contacter par mail à l'adresse [sdd\@sciviews.org](mailto:sdd@sciviews.org){.email}.
+**L'apprentissage nécessite de poser régulièrement des questions.** Le canal privilégié pour ces échanges est constitué des "issues" dans GitHub, accessibles depuis le site du cours. Vous pouvez également nous contacter par mail à l'adresse [sdd\@sciviews.org](mailto:sdd@sciviews.org){.email}, mais uniquement pour les questions à caractère privé par rapport aux autres étudiants, pas pour les questions sur la matière elle-même.
 
 ## Évaluation
 
-L'activité dans les différents exercices est enregistrée pour chaque étudiant et est utilisée pour une évaluation continue. Il n'y a pas d'examen en session ni d'examen en seconde session pour ce cours. La pondération entre les AA du Q1 et du Q2 est de 50/50. Il faut avoir réalisé au minimum 80% des exercices de chaque module pour qu'il soit pris en compte dans l'évaluation. De plus, il faut avoir obtenu au minimum 8/20 à chaque AA, sans quoi la note de l'AA la plus faible est utilisée pour la note finale de l'UE.
+L'activité dans les différents exercices est enregistrée pour chaque étudiant et est utilisée pour une évaluation continue. Il n'y a pas d'examen en session ni d'examen en seconde session pour cette matière. La pondération entre les AA du Q1 et du Q2 est de 50/50. Il faut avoir réalisé au minimum 80% des exercices de chaque module pour qu'il soit pris en compte dans l'évaluation.
 
 La note de chaque AA est obtenue par addition des composantes suivantes :
 
--   5% : exercices N1 + N2
--   5% : projets N3
--   20% : projets N4
--   20% : challenge
--   50% : deux interrogations
+-   25% pour les exercices, soit :
+    *   5%, exercices N1 + N2
+    *   20%, challenges
+-   25% pour les projets, soit :
+    *   5%, projets individuels N3
+    *   20%, projets de groupe N4
+-   25% pour une interrogation de milieu de parcours
+-   25% pour une interrogation vers la fin du quadrimestre
 
 ## Équipement requis
 
 -   un ordinateur (en option)
 
-Les heures en présentiel sont données dans des salles informatiques équipées d'ordinateurs. Il est conseillé d'utiliser son ordinateur personnel pour les étudiants qui en disposent : cela simplifie le travail en distanciel.
+Les heures en présentiel sont données dans des salles informatiques équipées d'ordinateurs. Il est conseillé d'utiliser son ordinateur personnel pour les étudiants qui en disposent. Cela simplifie le travail en distanciel.
 
 -   des écouteurs
 
-Des vidéos sont présentes dans le cours en ligne.
+Des vidéos sont présentes dans le cours en ligne et il faut pouvoir les écouter avec le son sans déranger ses voisins.
 
--   un câble Ethernet (en option)
+-   un câble ethernet (en option)
 
-Il s'agit d'un câble RJ45 non croisé de catégorie 5E ou plus, avec adaptateur si nécessaire pour le connecter sur votre ordinateur. La connexion filaire permet un accès à Internet plus stable et plus rapide que le Wifi.
+Il s'agit d'un câble RJ-45 non croisé de catégorie 5E ou plus d'au moins 1m, avec adaptateur si nécessaire pour le connecter sur votre ordinateur (par exemple, USB -> RJ-45). La connexion filaire permet un accès à Internet plus stable et plus rapide que le Wifi.
 
 L'UMONS met également des salles informatiques à disposition des étudiants qui ne disposent pas de leur propre PC. Le travail dans les salles informatiques doit se faire dans le respect de la **charte informatique de l'UMONS**, voir <https://go.sciviews.org/charte_info>.
 
@@ -84,7 +91,7 @@ La collecte des données personnelles des étudiants dans le cadre de ce cours s
 
 ## Entraide versus plagiat
 
-L'entraide entre les étudiants est encouragée, mais il faut citer ses sources. Le plagiat est par contre totalement **interdit** et sévèrement puni à l'UMONS. Les étudiants devront bien comprendre la différence entre les deux dans le cadre de cours.
+L'entraide entre les étudiants est encouragée, mais il faut citer ses sources. Le plagiat est par contre totalement **interdit** et sévèrement puni à l'UMONS. Les étudiants devront bien comprendre la différence entre les deux dans le cadre du cours.
 
 ## Ressources
 
