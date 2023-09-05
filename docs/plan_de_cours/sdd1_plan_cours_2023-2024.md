@@ -58,11 +58,11 @@ L'activité dans les différents exercices est enregistrée pour chaque étudian
 
 La note de chaque AA est obtenue par addition des composantes suivantes :
 
-- 5% : exercices N1 + N2
-- 5% : projets N3
-- 20% : projets N4
-- 20% : un challenge
-- 50% : deux interrogations 
+-   5% : exercices N1 + N2
+-   5% : projets N3
+-   20% : projets N4
+-   20% : un challenge
+-   50% : deux interrogations
 
 ## Équipement requis
 
@@ -96,6 +96,6 @@ L'entraide entre les étudiants est encouragée, mais il faut citer ses sources.
     -   Science des données I : visualisation <https://moodle.umons.ac.be/course/view.php?id=1387>
     -   Science des données I : Inférence <https://moodle.umons.ac.be/course/view.php?id=3385>
 -   Fiche ECTS du cours : <http://applications.umons.ac.be/web/fr/pde/2023-2024/ue/US-B2-SCBIOL-006-M.htm>
--   Définition du plagiat et les sanctions à l'UMONS : [https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx){.uri}
+-   Définition du plagiat et les sanctions à l'UMONS : [https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx)
 -   Je ne plagie pas ... enfin, je pense : <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat.aspx>
 -   Charte informatique de l'UMONS : <https://go.sciviews.org/charte_info>

@@ -31,11 +31,11 @@ Science des données II : modélisation (Q1)
 
 Science des données II : analyse (Q2)
 
-- Indices de distances, classification hiérarchique, K-moyennes
-- Analyse en composantes principales et analyse factorielle des correspondances
-- Base de données I et analyse factorielle multiple
-- Base de données II et positionnement multidimensionnel (MDS)
-- Données ouvertes, carte auto-adaptatives (SOM), indices de biodiversité
+-   Indices de distances, classification hiérarchique, K-moyennes
+-   Analyse en composantes principales et analyse factorielle des correspondances
+-   Base de données I et analyse factorielle multiple
+-   Base de données II et positionnement multidimensionnel (MDS)
+-   Données ouvertes, carte auto-adaptatives (SOM), indices de biodiversité
 
 ## Méthode pédagogique
 
@@ -56,12 +56,11 @@ L'activité dans les différents exercices est enregistrée pour chaque étudian
 
 La note de chaque AA est obtenue par addition des composantes suivantes :
 
-- 5% : exercices N1 + N2
-- 5% : projets N3
-- 20% : projets N4
-- 20% : challenge
-- 50% : deux interrogations 
-
+-   5% : exercices N1 + N2
+-   5% : projets N3
+-   20% : projets N4
+-   20% : challenge
+-   50% : deux interrogations
 
 ## Équipement requis
 
@@ -95,6 +94,6 @@ L'entraide entre les étudiants est encouragée, mais il faut citer ses sources.
     -   Science des données II : modélisation <https://moodle.umons.ac.be/course/view.php?id=1463>
     -   Science des données II : analyse <https://moodle.umons.ac.be/course/view.php?id=3386>
 -   Fiche ECTS du cours : <http://applications.umons.ac.be/web/fr/pde/2023-2024/ue/US-B3-SCBIOL-006-M.htm>
--   Définition du plagiat et les sanctions à l'UMONS : [https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx){.uri}
+-   Définition du plagiat et les sanctions à l'UMONS : [https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx)
 -   Je ne plagie pas ... enfin, je pense : <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat.aspx>
 -   Charte informatique de l'UMONS : <https://go.sciviews.org/charte_info>

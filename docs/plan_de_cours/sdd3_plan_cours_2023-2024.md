@@ -49,11 +49,11 @@ L'activité dans les différents exercices est enregistrée pour chaque étudian
 
 La note de l'UE est obtenue par addition des composantes suivantes :
 
-- 5% : exercices N1 + N2
-- 5% : projets N3
-- 20% : un projet N4
-- 20% : un challenge
-- 50% : deux interrogations 
+-   5% : exercices N1 + N2
+-   5% : projets N3
+-   20% : un projet N4
+-   20% : un challenge
+-   50% : deux interrogations
 
 ## Equipement requis
 
@@ -85,6 +85,6 @@ L'entraide entre les étudiants est encouragée mais il faut citer ses sources. 
 -   horaire des cours <https://hplanning2023.umons.ac.be/invite>
 -   Ressource Moodle : <https://moodle.umons.ac.be/course/view.php?id=1464>
 -   Fiche ECTS du cours : <http://applications.umons.ac.be/web/fr/pde/2023-2024/ue/US-M1-BIOECO-004-M.htm>
--   Définition du plagiat et les sanction à l'UMONS : [https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx){.uri}
+-   Définition du plagiat et les sanction à l'UMONS : [https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx)
 -   Je ne plagie pas ... enfin, je pense : <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat.aspx>
 -   Charte informatique de l'UMONS : <https://go.sciviews.org/charte_info>
