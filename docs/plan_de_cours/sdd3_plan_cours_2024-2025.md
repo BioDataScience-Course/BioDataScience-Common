@@ -2,6 +2,7 @@
 output:
   pdf_document: default
 ---
+
 # Plan de cours : Science des données III : exploration et prédiction
 
 ## année académique 2024-2025
@@ -21,17 +22,17 @@ La fiche ECTS reprend toutes les informations essentielles : <http://application
 
 ## Organisation
 
-Le cours de [Science des données III : exploration et prédiction](http://applications.umons.ac.be/web/fr/pde/2024-2025/ue/US-M1-BIOECO-004-M.htm) est une unité d'enseignement (UE) de trois crédits. Ce cours est composé de cinq modules.  Chaque module représente une charge moyenne de travail de 15 à 18h dont 6h en présentiel et le reste en travail personnel à domicile. Vous pouvez retrouver à l'horaire les plages en présentiel et le travail à distance est à réaliser entre ces sessions. Toutes les heures en présentiel sont assimilées à des heures de travaux pratiques encadrées avec **présence obligatoire**. Chaque absence doit être justifiée.
+Le cours de [Science des données III : exploration et prédiction](http://applications.umons.ac.be/web/fr/pde/2024-2025/ue/US-M1-BIOECO-004-M.htm) est une unité d'enseignement (UE) de trois crédits. Ce cours est composé de cinq modules. Chaque module représente une charge moyenne de travail de 15 à 18h dont 6h en présentiel et le reste en travail personnel à domicile. Vous pouvez retrouver à l'horaire les plages en présentiel et le travail à distance est à réaliser entre ces sessions. Toutes les heures en présentiel sont assimilées à des heures de travaux pratiques encadrées avec **présence obligatoire**. Chaque absence doit être justifiée.
 
 ## Modules
 
 Science des données III : exploration et prédiction
 
-- Classification supervisée I, LDA, principe général, matrice de confusion, métriques
-- Classification supervisée II, validation croisée, AUC, k-nn, lvq, rpart, random forest
-- Classification supervisée III, svm, réseaux de neurones, initiation au deep learning
-- Séries temporelles I, caractéristiques, manipulation, acf, analyse spectrale
-- Séries temporelles II, décomposition et régularisation
+-   Classification supervisée I, LDA, principe général, matrice de confusion, métriques
+-   Classification supervisée II, validation croisée, AUC, k-nn, lvq, rpart, random forest
+-   Classification supervisée III, svm, réseaux de neurones, initiation au deep learning
+-   Séries temporelles I, caractéristiques, manipulation, acf, analyse spectrale
+-   Séries temporelles II, décomposition et régularisation
 
 ## Méthode pédagogique
 
@@ -93,7 +94,7 @@ Des vidéos sont présentes dans le cours en ligne et il faut pouvoir les écout
 
 -   un câble ethernet (en option)
 
-Il s'agit d'un câble RJ-45 non croisé de catégorie 5E ou plus d'au moins 1m, avec adaptateur si nécessaire pour le connecter sur votre ordinateur (par exemple, USB -> RJ-45). La connexion filaire permet un accès à Internet plus stable et plus rapide que le Wifi.
+Il s'agit d'un câble RJ-45 non croisé de catégorie 5E ou plus d'au moins 1m, avec adaptateur si nécessaire pour le connecter sur votre ordinateur (par exemple, USB -\> RJ-45). La connexion filaire permet un accès à Internet plus stable et plus rapide que le Wifi.
 
 L'UMONS met également des salles informatiques à disposition des étudiants qui ne disposent pas de leur propre PC. Le travail dans les salles informatiques doit se faire dans le respect de la **charte informatique de l'UMONS**, voir <https://go.sciviews.org/charte_info>.
 
@@ -110,4 +111,4 @@ La collecte des données personnelles des étudiants dans le cadre de ce cours s
 -   Définition du plagiat et les sanction à l'UMONS : [https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx)
 -   Je ne plagie pas ... enfin, je pense : <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat.aspx>
 -   Charte informatique de l'UMONS : <https://go.sciviews.org/charte_info>
--   Charte d'utilisation des systèmes d'intelligence artificielle générative dans les travaux universitaires à l'UMONS : \<\>
+-   Charte d'utilisation des systèmes d'intelligence artificielle générative dans les travaux universitaires à l'UMONS : <https://go.sciviews.org/charte_ia>

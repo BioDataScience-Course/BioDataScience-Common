@@ -28,19 +28,19 @@ Le cours de [Science des données II : analyse et modélisation](http://applicat
 
 Science des données II : modélisation (Q1)
 
-- Régression linéaire simple et analyse des résidus (partie I)
-- Régressions linéaire multiple et polynomiale, analyse des résidus (partie II)
-- Modèles linéaires et matrices de contraste
-- Modèles linéaires généralisés
-- Modèles non linéaire
+-   Régression linéaire simple et analyse des résidus (partie I)
+-   Régressions linéaire multiple et polynomiale, analyse des résidus (partie II)
+-   Modèles linéaires et matrices de contraste
+-   Modèles linéaires généralisés
+-   Modèles non linéaire
 
 Science des données II : analyse (Q2)
 
-- Classification ascendante hiérarchique, K-moyennes, matrices de distances, indices de biodiversité
-- ACP et AFC
-- AFM et big data
-- Bases de données et MDS
-- Données ouvertes et SOM
+-   Classification ascendante hiérarchique, K-moyennes, matrices de distances, indices de biodiversité
+-   ACP et AFC
+-   AFM et big data
+-   Bases de données et MDS
+-   Données ouvertes et SOM
 
 ## Méthode pédagogique
 
@@ -121,4 +121,4 @@ La collecte des données personnelles des étudiants dans le cadre de ce cours s
 -   Définition du plagiat et les sanctions à l'UMONS : [https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx)
 -   Je ne plagie pas ... enfin, je pense : <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat.aspx>
 -   Charte informatique de l'UMONS : <https://go.sciviews.org/charte_info>
--   Charte d'utilisation des systèmes d'intelligence artificielle générative dans les travaux universitaires à l'UMONS : \<\>
+-   Charte d'utilisation des systèmes d'intelligence artificielle générative dans les travaux universitaires à l'UMONS : <https://go.sciviews.org/charte_ia>
