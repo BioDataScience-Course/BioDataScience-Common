@@ -121,4 +121,4 @@ La collecte des données personnelles des étudiants dans le cadre de ce cours s
 -   Définition du plagiat et les sanctions à l'UMONS : [https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx)
 -   Je ne plagie pas ... enfin, je pense : <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat.aspx>
 -   Charte informatique de l'UMONS : <https://go.sciviews.org/charte_info>
--   Charte d'utilisation des systèmes d'intelligence artificielle générative dans les travaux universitaires à l'UMONS : <https://go.sciviews.org/charte_ia>
+-   Charte d'utilisation des systèmes d'intelligence artificielle générative dans les travaux universitaires à l'UMONS : <https://go.sciviews.org/charte_ia_umons>
