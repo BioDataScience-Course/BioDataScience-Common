@@ -5,7 +5,7 @@ output:
 
 # Plan de cours : Science des données I : visualisation et inférence
 
-## Année académique 2024-2025
+## Année académique 2025-2026
 
 ## Enseignants
 
@@ -18,11 +18,11 @@ La science des données s'intéresse à l'analyse des données sous toutes ses f
 
 Ce premier cours s'inscrit dans une formation continue sur trois années successives. À la fin de ce premier cours, les étudiants seront capables de réaliser des analyses biologiques usuelles et de présenter clairement leurs résultats de manière reproductible avec des outils informatiques et statistiques professionnels.
 
-La fiche ECTS reprend toutes les informations essentielles : <http://applications.umons.ac.be/web/fr/pde/2024-2025/ue/US-B2-SCBIOL-006-M.htm>
+La fiche ECTS reprend toutes les informations essentielles : <http://applications.umons.ac.be/web/fr/pde/2025-2026/ue/US-B2-SCBIOL-006-M.htm>
 
 ## Organisation
 
-Le cours de [Science des données I : visualisation et inférence](http://applications.umons.ac.be/web/fr/pde/2024-2025/ue/US-B2-SCBIOL-006-M.htm) est une unité d'enseignement (UE) de six crédits. Il est divisé en deux activités d'apprentissages (AA) de trois crédits chacune : [Science des données I : visualisation](http://applications.umons.ac.be/web/fr/pde/2024-2025/aa/S-BIOG-006.htm) (Q1) et [Science des données I : inférence](http://applications.umons.ac.be/web/fr/pde/2024-2025/aa/S-BIOG-027.htm) (Q2). Ce cours est constitué de dix modules. Chaque module représente une charge moyenne de travail de 15 à 18h dont 6h en présentiel et le reste en travail personnel à domicile. Vous pouvez retrouver à l'horaire les plages en présentiel. Le travail à distance est à réaliser entre ces sessions. Toutes les heures en présentiel sont assimilées à des heures de travaux pratiques encadrés avec **présence obligatoire**. Chaque absence doit être justifiée.
+Le cours de [Science des données I : visualisation et inférence](http://applications.umons.ac.be/web/fr/pde/2025-2026/ue/US-B2-SCBIOL-006-M.htm) est une unité d'enseignement (UE) de six crédits. Il est divisé en deux activités d'apprentissages (AA) de trois crédits chacune : [Science des données I : visualisation](http://applications.umons.ac.be/web/fr/pde/2025-2026/aa/S-BIOG-006.htm) (Q1) et [Science des données I : inférence](http://applications.umons.ac.be/web/fr/pde/2025-2026/aa/S-BIOG-027.htm) (Q2). Ce cours est constitué de dix modules. Chaque module représente une charge moyenne de travail de 15 à 18h dont 6h en présentiel et le reste en travail personnel à domicile. Vous pouvez retrouver à l'horaire les plages en présentiel. Le travail à distance est à réaliser entre ces sessions. Toutes les heures en présentiel sont assimilées à des heures de travaux pratiques encadrés avec **présence obligatoire**. Chaque absence doit être justifiée.
 
 ## Modules
 
@@ -113,11 +113,11 @@ La collecte des données personnelles des étudiants dans le cadre de ce cours s
 ## Ressources
 
 -   Site web du cours <http://bds.sciviews.org/>
--   Horaire des cours <https://hplanning2024.umons.ac.be/invite>
+-   Horaire des cours <https://hplanning2025.umons.ac.be/invite>
 -   Ressources Moodle :
     -   Science des données I : visualisation <https://moodle.umons.ac.be/course/view.php?id=1387>
     -   Science des données I : Inférence <https://moodle.umons.ac.be/course/view.php?id=3385>
--   Fiche ECTS du cours : <http://applications.umons.ac.be/web/fr/pde/2024-2025/ue/US-B2-SCBIOL-006-M.htm>
+-   Fiche ECTS du cours : <http://applications.umons.ac.be/web/fr/pde/2025-2026/ue/US-B2-SCBIOL-006-M.htm>
 -   Définition du plagiat et les sanctions à l'UMONS : [https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx)
 -   Je ne plagie pas ... enfin, je pense : <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat.aspx>
 -   Charte informatique de l'UMONS : <https://go.sciviews.org/charte_info>
