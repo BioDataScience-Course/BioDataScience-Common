@@ -1,6 +1,6 @@
 ---
 format: pdf
-editor: visual
+editor: source
 ---
 
 # Plan de cours : Science des données II : analyse et modélisation
@@ -24,11 +24,11 @@ La science des données s'intéresse à l'analyse des données sous toutes ses f
 
 Ce second cours s'inscrit dans une formation continue sur trois années successives. À la fin de ce second cours, les étudiants seront capables de modéliser, de produire des analyses multivariées et de présenter clairement leurs résultats de manière reproductible avec des outils informatiques et statistiques professionnels.
 
-La fiche ECTS reprend toutes les informations essentielles : <`r glue("http://applications.umons.ac.be/web/fr/pde/{year}/ue/US-B3-SCBIOL-006-M.htm")`>
+La fiche ECTS reprend toutes les informations essentielles : <`r glue("https://webcontent.umons.ac.be/web/fr/pde/{year}/ue/US-B3-SCBIOL-006-M.htm")`>
 
 ## Organisation
 
-Le cours de [Science des données II : analyse et modélisation]( `r glue("http://applications.umons.ac.be/web/fr/pde/{year}/ue/US-B3-SCBIOL-006-M.htm")`) (UE) est une unité d'enseignement (UE) de cinq crédits. Il est divisé en deux activités d'apprentissages (AA) : [Science des données II : modélisation](`r glue("http://applications.umons.ac.be/web/fr/pde/{year}/aa/S-BIOG-015.htm")`) (Q1) et [Science des données II : analyse](`r glue("http://applications.umons.ac.be/web/fr/pde/{year}/aa/S-BIOG-061.htm")`) (Q2). Ce cours est constitué de dix modules. Chaque module représente une charge moyenne de travail de 12h à 15h dont 6h en présentiel et le reste en travail personnel à domicile. Vous pouvez retrouver à l'horaire les plages en présentiel. Le travail à distance est à réaliser entre ces sessions. Toutes les heures en présentiel sont assimilées à des heures de travaux pratiques encadrées avec **présence obligatoire**. Chaque absence doit être justifiée.
+Le cours de [Science des données II : analyse et modélisation](`r glue("https://webcontent.umons.ac.be/web/fr/pde/{year}/ue/US-B3-SCBIOL-006-M.htm")`) (UE) est une unité d'enseignement (UE) de cinq crédits. Il est divisé en deux activités d'apprentissages (AA) : [Science des données II : modélisation](`r glue("https://webcontent.umons.ac.be/web/fr/pde/{year}/aa/S-BIOG-015.htm")`) (Q1) et [Science des données II : analyse](`r glue("https://webcontent.umons.ac.be/web/fr/pde/{year}/aa/S-BIOG-061.htm")`) (Q2). Ce cours est constitué de dix modules. Chaque module représente une charge moyenne de travail de 12h à 15h dont 6h en présentiel et le reste en travail personnel à domicile. Vous pouvez retrouver à l'horaire les plages en présentiel. Le travail à distance est à réaliser entre ces sessions. Toutes les heures en présentiel sont assimilées à des heures de travaux pratiques encadrées avec **présence obligatoire**. Chaque absence doit être justifiée.
 
 ## Modules
 
@@ -123,8 +123,8 @@ La collecte des données personnelles des étudiants dans le cadre de ce cours s
 -   Ressources Moodle :
     -   Science des données II : modélisation <https://moodle.umons.ac.be/course/view.php?id=1463>
     -   Science des données II : analyse <https://moodle.umons.ac.be/course/view.php?id=3386>
--   Fiche ECTS du cours : <`r glue("http://applications.umons.ac.be/web/fr/pde/{year}/ue/US-B3-SCBIOL-006-M.htm")`>
--   Définition du plagiat et les sanctions à l'UMONS : [https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx](https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx)
+-   Fiche ECTS du cours : <`r glue("https://webcontent.umons.ac.be/web/fr/pde/{year}/ue/US-B3-SCBIOL-006-M.htm")`>
+-   Définition du plagiat et les sanctions à l'UMONS : <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx>
 -   Je ne plagie pas ... enfin, je pense : <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat.aspx>
 -   Charte informatique de l'UMONS : <https://go.sciviews.org/charte_info>
--   Charte d'utilisation des systèmes d'intelligence artificielle générative dans les travaux universitaires à l'UMONS : <https://go.sciviews.org/charte_ia_umons>
+-   L'intelligence artificielle et la charte d'utilisation des systèmes d'intelligence artificielle générative dans les travaux universitaires à l'UMONS : <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Intelligence-artificielle.aspx>

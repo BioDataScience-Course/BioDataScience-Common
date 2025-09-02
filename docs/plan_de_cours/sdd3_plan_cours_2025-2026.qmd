@@ -26,11 +26,11 @@ Ce troisième cours s'inscrit dans une formation continue sur trois années succ
 
 La fiche ECTS reprend toutes les informations essentielles :
 
-<`r glue("http://applications.umons.ac.be/web/fr/pde/{year}/ue/US-M1-BIOECO-004-M.htm")`>
+<`r glue("https://webcontent.umons.ac.be/web/fr/pde/{year}/ue/US-M1-BIOECO-004-M.htm")`>
 
 ## Organisation
 
-Le cours de [Science des données III : exploration et prédiction](%60r%20glue(%22http://applications.umons.ac.be/web/fr/pde/%7Byear%7D/ue/US-M1-BIOECO-004-M.htm%22)%60) est une unité d'enseignement (UE) de trois crédits. Ce cours est composé de cinq modules. Chaque module représente une charge moyenne de travail de 15 à 18h dont 6h en présentiel et le reste en travail personnel à domicile. Vous pouvez retrouver à l'horaire les plages en présentiel et le travail à distance est à réaliser entre ces sessions. Toutes les heures en présentiel sont assimilées à des heures de travaux pratiques encadrées avec **présence obligatoire**. Chaque absence doit être justifiée.
+Le cours de [Science des données III : exploration et prédiction](`r glue("https://webcontent.umons.ac.be/web/fr/pde/{year}/ue/US-M1-BIOECO-004-M.htm")`) est une unité d'enseignement (UE) de trois crédits. Ce cours est composé de cinq modules. Chaque module représente une charge moyenne de travail de 15 à 18h dont 6h en présentiel et le reste en travail personnel à domicile. Vous pouvez retrouver à l'horaire les plages en présentiel et le travail à distance est à réaliser entre ces sessions. Toutes les heures en présentiel sont assimilées à des heures de travaux pratiques encadrées avec **présence obligatoire**. Chaque absence doit être justifiée.
 
 ## Modules
 
@@ -113,10 +113,10 @@ La collecte des données personnelles des étudiants dans le cadre de ce cours s
 ## Ressources
 
 -   Site web du cours <https://wp.sciviews.org/>
--   horaire des cours \<`r glue("https://hplanning{year1}.umons.ac.be/invite")`\>
+-   horaire des cours <`r glue("https://hplanning{year1}.umons.ac.be/invite")`>
 -   Ressource Moodle : <https://moodle.umons.ac.be/course/view.php?id=1464>
--   Fiche ECTS du cours : \<`r glue("http://applications.umons.ac.be/web/fr/pde/{year}/ue/US-M1-BIOECO-004-M.htm")`\>
+-   Fiche ECTS du cours : <`r glue("https://webcontent.umons.ac.be/web/fr/pde/{year}/ue/US-M1-BIOECO-004-M.htm")`>
 -   Définition du plagiat et les sanction à l'UMONS : <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat(1).aspx>
 -   Je ne plagie pas ... enfin, je pense : <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Plagiat.aspx>
 -   Charte informatique de l'UMONS : <https://go.sciviews.org/charte_info>
--   Charte d'utilisation des systèmes d'intelligence artificielle générative dans les travaux universitaires à l'UMONS : <https://go.sciviews.org/charte_ia_umons>
+-   L'intelligence artificielle et la charte d'utilisation des systèmes d'intelligence artificielle générative dans les travaux universitaires à l'UMONS : <https://alumniumonsac.sharepoint.com/sites/SAP_Etudiants/SitePages/Intelligence-artificielle.aspx>
