@@ -5,10 +5,10 @@ editor: source
 
 # Plan de cours : Science des données II : analyse et modélisation
 
-```{r, echo=FALSE}
+```{r setup, echo=FALSE}
 library(glue)
-year <- "2025-2026"
-year1 <- "2025"
+year <- "2026-2027"
+year1 <- "2026"
 ```
 
 ## année académique `r glue::glue(year)`
@@ -34,11 +34,11 @@ Le cours de [Science des données II : analyse et modélisation](`r glue("https:
 
 Science des données II : modélisation (Q1)
 
+-   Droite de calibration
 -   Régression linéaire simple et analyse des résidus (partie I)
 -   Régressions linéaire multiple et polynomiale, analyse des résidus (partie II)
 -   Modèles linéaires et matrices de contraste
 -   Modèles linéaires généralisés
--   Modèles non linéaire
 
 Science des données II : analyse (Q2)
 

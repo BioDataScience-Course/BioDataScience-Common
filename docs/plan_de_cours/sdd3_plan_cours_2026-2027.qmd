@@ -7,8 +7,8 @@ editor: source
 
 ```{r, echo=FALSE}
 library(glue)
-year <- "2025-2026"
-year1 <- "2025"
+year <- "2026-2027"
+year1 <- "2026"
 ```
 
 ## année académique `r glue::glue(year)`
